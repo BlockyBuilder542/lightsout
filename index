@@ -1,0 +1,35 @@
+#header
+text=How To Code
+scale=3
+
+#header
+text=A tutorial on how to code in GitWeb
+align=center
+
+#divider
+scale=5
+
+#navigation
+item-link-1=paragraph
+item-label-1=&6How To Make A Paragraph
+
+item-link-2=navigation
+item-label-2=&6How To Make A Navigation Bar
+
+item-link-3=header
+item-label-3=&6How To Make A Header
+
+item-link-4=footer
+item-label-4=&6How To Make A Footer
+
+item-link-5=banner
+item-label-5=&6How To Make A Banner
+
+item-link-6=divider
+item-label-6=&6How To Make A Divider
+
+item-link-7=publish
+item-label-7=&6How To Publish A Website
+
+#paragraph
+text=In this tutorial we will learn how to make all of the aspects of a website including paragraphs, navigation bars, headers, footers, dividers, and publishing it
